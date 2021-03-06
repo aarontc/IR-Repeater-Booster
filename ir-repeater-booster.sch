@@ -39,7 +39,7 @@ U 1 1 60407C24
 P 1050 1400
 F 0 "J1" H 1107 1717 50  0000 C CNN
 F 1 "DC_IN" H 1107 1626 50  0000 C CNN
-F 2 "Connector_BarrelJack:BarrelJack_CUI_PJ-102AH_Horizontal" H 1100 1360 50  0001 C CNN
+F 2 "Connector_BarrelJack:BarrelJack_Wuerth_6941xx301002" H 1100 1360 50  0001 C CNN
 F 3 "~" H 1100 1360 50  0001 C CNN
 	1    1050 1400
 	1    0    0    -1  
