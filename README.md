@@ -10,6 +10,12 @@ The IR receiver uses a 3.5mm TRS connector, where tip is output, ring is 5V, and
 The Repeater Booster is designed to operate between the IR receiver and the "repeater" unit. 
 
 This board is designed to be as inexpensive as is reasonably possible using JLCPCB's assembly service. 
- 
+
+
+## Design Notes
+
+* 12V DC input is optional at one end, the cat5/6 connection can be used to carry 12V to the other end.
+* Boards must be used in pairs, one as an input and one as an output.
+* 120-ohm termination is required at both ends of the bus. If you are connecting more than one RX board, cut the temrination jumper on the middle board(s) to prevent overburdening the differential drivers.
  
 ["Tunteil IR Remote Control Repeater"]: https://amzn.to/3bettCj
